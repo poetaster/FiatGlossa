@@ -23,7 +23,7 @@ QtObject {
     readonly property color secondaryText: ambient ? Theme.secondaryColor : Qt.rgba(0.10, 0.10, 0.10, 0.55)
     // Verdigris: the green of old ink and manuscript bindings, where glosses
     // were written in the margin.
-    readonly property color accent:        ambient ? Theme.highlightColor : "#3E7C74"
+    readonly property color accent:        ambient ? Theme.highlightColor : "#006E8C"
 
     readonly property color backgroundHigh: "#F2EFE8"
     readonly property color backgroundLow:  "#D8D2C6"
